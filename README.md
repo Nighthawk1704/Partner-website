@@ -1,2 +1,2 @@
-# ProjectRepo_1
+# Partner-website
 this is just a simple project...
